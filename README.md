@@ -1,1 +1,3 @@
-# webpack-project
+# Webpack Project
+
+Project for webpack studies
